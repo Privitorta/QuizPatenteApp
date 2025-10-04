@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Quiz Patente A/B</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <main class="app">
+    <header>
+      <h1>Quiz Patente A/B</h1>
+      <p class="muted">Scegli una categoria e, se vuoi, una sottocategoria specifica su cui allenarti.</p>
+    </header>
+
+    <section class="controls">
+      <div class="field">
+        <label for="category">categoria</label>
+        <select id="category"><option>caricamento...</option></select>
+      </div>
+      <div class="field">
+        <label for="subcategory">sottocategoria (opzionale)</label>
+        <select id="subcategory" disabled><option>seleziona categoria</option></select>
+      </div>
+      <div class="actions">
+        <button id="start">Avvia</button>
+        <button id="restart" class="secondary" disabled>Reset</button>
+      </div>
+    </section>
+
+    <section id="quiz" class="quiz hidden">
+      <div class="progress">Domanda <span id="current">0</span>/<span id="total">0</span></div>
+      <div id="card" class="card">
+        <img id="qimg" class="qimg hidden" alt="" />
+        <div id="qtext" class="qtext">Seleziona categoria e premi avvia quiz</div>
+          <div id="feedback" class="feedback hidden" aria-live="polite"></div>
+      </div>
+      <div class="answers">
+        <button id="trueBtn" class="answer true">VERO</button>
+        <button id="falseBtn" class="answer false">FALSO</button>
+      </div>
+    </section>
+
+    <section id="result" class="result hidden">
+      <h2>Risultato</h2>
+      <p>Hai totalizzato <strong id="score">0</strong> punti su <span id="scoreTotal">0</span>.</p>
+      <button id="back">Restart</button>
+    </section>
+
+    <footer class="foot muted">Data: <code>quizPatenteB2023.json</code><br>WebApp by <code>@Privitorta</code></footer>
+  </main>
+
+  <script src="js/app.js" type="module"></script>
+</body>
+</html>

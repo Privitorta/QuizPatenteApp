@@ -14352,7 +14352,7 @@
         "a": false
       }
     ],
-    "fischeitto": [
+    "fischietto": [
       {
         "q": "Il suono prolungato del fischietto da parte dell'agente preposto al traffico significa che tutti i veicoli si devono arrestare, in condizioni di sicurezza",
         "a": true
@@ -27945,7 +27945,7 @@
         "a": false
       }
     ],
-    "Comportamenti-guida-caravan": [
+    "comportamenti-guida-caravan": [
       {
         "q": "Nei caravan, per ridurre il rischio di ribaltamento in curva, occorre sistemare il carico degli oggetti pesanti in modo da mantenere il baricentro il pi\u00f9 basso possibile",
         "a": true
@@ -27963,7 +27963,7 @@
         "a": false
       }
     ],
-    "Dotazione-rimorchio": [
+    "dotazione-rimorchio": [
       {
         "q": "Nel rimorchio \u00e8 presente un dispositivo di sicurezza che, in caso di sganciamento accidentale, aziona automaticamente il freno di stazionamento",
         "a": true
@@ -28005,7 +28005,7 @@
         "a": false
       }
     ],
-    "Conduzione-veicoli-rimorchio": [
+    "conduzione-veicoli-rimorchio": [
       {
         "q": "Nei centri abitati il conducente non deve lasciare in sosta un rimorchio staccato dalla motrice, salvo diversa segnalazione",
         "a": true
@@ -28111,7 +28111,7 @@
         "a": false
       }
     ],
-    "Guida-veicoli-rimorchio": [
+    "guida-veicoli-rimorchio": [
       {
         "q": "Alla guida di un veicolo con rimorchio, nello svoltare a destra, bisogna fare particolare attenzione a non investire, con la ruota posteriore destra, eventuali pedoni che si trovino vicino al marciapiede",
         "a": true
@@ -28161,7 +28161,7 @@
         "a": false
       }
     ],
-    "Carichi-organi-traino": [
+    "carichi-organi-traino": [
       {
         "q": "Le parti meccaniche in movimento degli organi di traino di un autoveicolo e di un rimorchio devono essere mantenute pulite e adeguatamente lubrificate",
         "a": true
@@ -29688,7 +29688,7 @@
         "a": false
       }
     ],
-    "Abilitazioni-patente-AM": [
+    "abilitazioni-patente-AM": [
       {
         "q": "Con la patente di categoria AM si possono condurre i quadricicli leggeri",
         "a": true
@@ -29734,7 +29734,7 @@
         "a": false
       }
     ],
-    "Patente-categoria-a1": [
+    "patente-categoria-a1": [
       {
         "q": "Con la patente di categoria A1 si possono condurre i motocicli (con o senza carrozzetta) di cilindrata fino a 125 cm3, potenza non superiore a 11 kW e rapporto potenza/peso non superiore a 0,1 kW/kg",
         "a": true
@@ -29780,7 +29780,7 @@
         "a": false
       }
     ],
-    "Patente-categoria-a2": [
+    "patente-categoria-a2": [
       {
         "q": "Con la patente di categoria A2 si possono condurre i motocicli (con o senza carrozzetta) di potenza fino a 35 kW, rapporto potenza/peso non superiore a 0,2 kW/kg purch\u00e9 non siano derivati da una versione dello stesso modello che sviluppi oltre il doppio della potenza massima",
         "a": true
@@ -29834,7 +29834,7 @@
         "a": false
       }
     ],
-    "Patente-categoria-A": [
+    "patente-categoria-A": [
       {
         "q": "Con la patente di categoria A si possono condurre tutti i motocicli (con o senza carrozzetta)",
         "a": true
@@ -29892,7 +29892,7 @@
         "a": false
       }
     ],
-    "Patente-categoria-B1": [
+    "patente-categoria-B1": [
       {
         "q": "La patente di categoria B1 pu\u00f2 essere conseguita a 16 anni di et\u00e0",
         "a": true
@@ -29926,7 +29926,7 @@
         "a": false
       }
     ],
-    "Patente-categoria-B": [
+    "patente-categoria-B": [
       {
         "q": "La patente di categoria B abilita a condurre gli autoveicoli di massa massima autorizzata non superiore a 3,5 tonnellate destinati al trasporto di non pi\u00f9 di otto persone oltre al conducente",
         "a": true
@@ -30008,7 +30008,7 @@
         "a": false
       }
     ],
-    "Codice-armonizzato-96": [
+    "codice-armonizzato-96": [
       {
         "q": "La patente di categoria B con codice armonizzato 96, consente di guidare le autovetture trainanti un rimorchio non leggero (oltre 750 chilogrammi), purch\u00e9 la massa massima autorizzata del complesso non sia superiore a 4.250 chilogrammi",
         "a": true
@@ -30050,7 +30050,7 @@
         "a": false
       }
     ],
-    "Patente-categoria-BE": [
+    "patente-categoria-BE": [
       {
         "q": "La patente di categoria BE abilita a condurre complessi di veicoli composti da un autoveicolo di massa massima autorizzata fino a 3.500 chilogrammi e da un rimorchio di massa fino a 3.500 chilogrammi, anche se la massa del complesso veicolare \u00e8 superiore a 4.250 chilogrammi",
         "a": true
@@ -30092,7 +30092,7 @@
         "a": false
       }
     ],
-    "Ritiro-patente-guida": [
+    "ritiro-patente-guida": [
       {
         "q": "La patente di guida viene immediatamente ritirata, durante la circolazione, a seguito di violazione che comporti le sanzioni accessorie della sospensione della patente",
         "a": true
@@ -33617,7 +33617,7 @@
         "a": false
       }
     ],
-    "Sterzo-servosterzo": [
+    "sterzo-servosterzo": [
       {
         "q": "In caso di mal funzionamento del servosterzo, lo sterzo diventa \u201cpesante\u201d",
         "a": true
@@ -33861,7 +33861,7 @@
         "a": false
       }
     ],
-    "Livello-olio-liquidi": [
+    "livello-olio-liquidi": [
       {
         "q": "Nei veicoli a motore a due ruote, il livello dell'olio deve essere controllato a veicolo perfettamente orizzontale, poggiato con le ruote a terra e non sul cavalletto",
         "a": true
