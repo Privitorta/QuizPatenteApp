@@ -1,4 +1,4 @@
-# Quiz Patente A/B
+# Quiz Patente App A/B
 
 I quiz sono aggiornati al 2023. Il file `quizPatenteB2023.json` contiene 7139 domande, fra cui ~3983 con immagini. Le immagini si trovano nella cartella `img_sign`. L'intero merito per il file JSON e per le immagini dei quiz va all'user [@Ed0ardo](https://github.com/Ed0ardo).
 
